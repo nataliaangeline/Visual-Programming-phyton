@@ -1,2 +1,2 @@
 # Visual-Programming-phyton
-weekly tasks
+weekly tasks & assignments
